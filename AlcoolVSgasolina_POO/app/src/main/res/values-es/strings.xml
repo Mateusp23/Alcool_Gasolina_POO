@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mejor combustible</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="input_preco_alcool">Precio del alcohol:</string>
+    <string name="input_preco_gasolina">precio de la gasolina:</string>
+    <string name="text_descubra_melhor_combustivel">¡Descubre ahora la mejor opción de repostaje para tu coche!</string>
+    <string name="alcool_ou_gasolina">¿Alcohol o gasolina?</string>
+    <string name="text_melhor_opcao">¿Qué mejor opción para su vehículo: alcohol o gasolina?</string>
+    <string name="text_criate_by">Creado por Mateus e Otavio</string>
+    <string name="text_resposta_melhorOp">¿Alcohol o gasolina?</string>
+    <string name="text_poo">Programación orientada a objetos</string>
+    <string name="textResultado">Resultado</string>
+    <string name="traducaoGasosa">Mejor usar Gasolina</string>
+    <string name="traducaoAlcool">" Mejor usar Alcohol"</string>
+    <string name="traducaoCampos">¡Complete los precios primero!</string>
+</resources>

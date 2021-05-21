@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">better fuel</string>
+    <string name="btn_calcular">Calculate</string>
+    <string name="input_preco_alcool">alcohol price U$1.50</string>
+    <string name="input_preco_gasolina">gasoline price U$2.30</string>
+    <string name="text_descubra_melhor_combustivel">Discover now the best fueling option for your car!</string>
+    <string name="alcool_ou_gasolina">Alcohol or Gasoline?</string>
+    <string name="text_criate_by">Created by Mateus e otavio</string>
+    <string name="text_melhor_opcao">What better option for your vehicle:</string>
+    <string name="text_resposta_melhorOp">Alcohol or Gasoline?</string>
+    <string name="text_poo">Object-oriented programming</string>
+    <string name="textResultado">Result</string>
+    <string name="traducaoGasosa">Better to use Gasoline</string>
+    <string name="traducaoCampos">Fill in the prices first!</string>
+    <string name="traducaoAlcool">Better to use Alcohol</string>
+</resources>

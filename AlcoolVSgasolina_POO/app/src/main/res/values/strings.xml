@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AlcoolVSgasolina_POO</string>
+    <string name="text_descubra_melhor_combustivel">Descubra agora a melhor opção de abastecimento do seu carro!</string>
+    <string name="input_preco_gasolina">Preço gasolina ex: R$ 4.99</string>
+    <string name="input_preco_alcool">Preço álcool ex: R$ 4.10</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="alcool_ou_gasolina">Álcool ou Gasolina?</string>
+    <string name="text_criate_by">Criado por Mateus e Otavio</string>
+    <string name="text_poo">Programação Orientada a Objetos</string>
+    <string name="text_melhor_opcao">Qual melhor opção para seu veiculo:</string>
+    <string name="text_resposta_melhorOp">Àlcool ou Gasolina?</string>
+    <string name="textResultado">Resultado</string>
+
+    <string name="traducaoCampos">Preencha os preços primeiro!</string>
+    <string name="traducaoAlcool">Melhor utilizar Álcool</string>
+    <string name="traducaoGasosa">Melhor utilizar Gasolina</string>
+</resources>
